@@ -4,7 +4,7 @@
 
 Welcome to *nakabo* - a collection of neatly designed breakout boards aimed at simplifying development and experimentation.
 
-Feel free to give me a shoutout on [@kiu112](https://twitter.com/kiu112) - I would love to see how my [#nakabo](https://twitter.com/search?q=%2523nakabo) boards are being used in your projects.
+Feel free to give me a shoutout [@kiu112](https://twitter.com/kiu112) - I would love to see how my [#nakabo](https://twitter.com/search?q=%2523nakabo) boards are being used in your projects.
 
 # nakabo-avr64*
 
