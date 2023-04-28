@@ -1,4 +1,4 @@
-![nakabo-banner](https://raw.githubusercontent.com/kiu/nakabo/main/nakabo-banner.jpg)
+[![nakabo-banner](https://raw.githubusercontent.com/kiu/nakabo/main/img/nakabo-banner-th.jpg)](https://raw.githubusercontent.com/kiu/nakabo/main/img/nakabo-banner.jpg)
 
 # nakabo
 
@@ -7,6 +7,8 @@ Welcome to *nakabo* - a collection of neatly designed breakout boards aimed at s
 Feel free to give me a shoutout [@kiu112](https://twitter.com/kiu112) - I would love to see how my [#nakabo](https://twitter.com/search?q=%2523nakabo) boards are being used in your projects.
 
 # nakabo-avr64*
+
+[![nakabo-avr64](https://raw.githubusercontent.com/kiu/nakabo/main/img/nakabo-avr64-th.png)](https://raw.githubusercontent.com/kiu/nakabo/main/img/nakabo-avr64.png)
 
 * All pins routed out to headers / sockets
 * AVR6 IDC connector (6P 2x03 2.54mm / 100mil) for UPDI programming and debugging
